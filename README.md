@@ -23,10 +23,3 @@ Hi, I'm [Jean Pineda](https://raymyteche.com/), a Full Stack Developer 🚀 from
 <img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
   
 
-
-### Donde me puedes encontrar
-
-_Personal_
-* :star::blush: A veces me vuelvo Youtuber DEV **[Videos](https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q)** :v:
-* :star::blush: Mi sitio web **[Works](https://hebertdev.tk/works)** :v:
-* :star::blush:  **[Linkendin](https://www.instagram.com/hebertdev1)** :v:
