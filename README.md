@@ -6,9 +6,6 @@
   <img align="left" alt="Caospierre LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/jppineda1/">
-  <img align="left" alt="Caospierre Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <a href="https://www.youtube.com/channel/UC19Uyj33ZziPEBL9wECnaQw">
   <img align="left" alt="Caospierre Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
