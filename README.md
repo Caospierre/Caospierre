@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Jean Pineda](https://raymytech.com/), a Full Stack Developer 🚀 from Ecuador, I have extensive experience in the design and building of web and mobile applications.
+Hi, I'm [Chaos Pierre](https://raymytech.com/), a Full Stack Developer 🚀 from Ecuador, I have extensive experience in the design and building of web and mobile applications.
 
 <img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
   
